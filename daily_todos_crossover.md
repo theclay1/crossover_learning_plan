@@ -40,7 +40,7 @@
   - [✅] Complete 15 mins English pronunciation practice
   - [ ] Read: "How to prepare for CCAT" article
   - [✅] Create study schedule spreadsheet
-  - [ ] Set up Notion or note-taking system
+  - [✅] Set up Notion or note-taking system
 
 **Total Time: 4 hours**
 
