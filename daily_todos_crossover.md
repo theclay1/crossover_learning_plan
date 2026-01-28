@@ -37,9 +37,9 @@
   - [✅] Push code to GitHub (practice Git basics)
 - [ ] **Evening (1 hour)**
   - [✅] Download ELSA Speak app
-  - [ ] Complete 15 mins English pronunciation practice
+  - [✅] Complete 15 mins English pronunciation practice
   - [ ] Read: "How to prepare for CCAT" article
-  - [ ] Create study schedule spreadsheet
+  - [✅] Create study schedule spreadsheet
   - [ ] Set up Notion or note-taking system
 
 **Total Time: 4 hours**
