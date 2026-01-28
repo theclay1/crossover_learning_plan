@@ -24,7 +24,7 @@
 
 #### **Day 1 - Monday: Setup & Orientation**
 - [ ] **Morning (1 hour)**
-  - [ ] Create GitHub account
+  - [✅] Create GitHub account
   - [ ] Set up Git on your computer
   - [ ] Create HackerRank account
   - [ ] Create LeetCode account
