@@ -23,24 +23,24 @@
 ### **WEEK 1: Getting Started**
 
 #### **Day 1 - Monday: Setup & Orientation**
-- [✅] **Morning (1 hour)**
-  - [✅] Create GitHub account
-  - [✅] Set up Git on your computer
-  - [✅] Create HackerRank account
-  - [✅] Create LeetCode account
-  - [✅] Create Codewars account
+- [ ] **Morning (1 hour)**
+  - [ ] Create GitHub account
+  - [ ] Set up Git on your computer
+  - [ ] Create HackerRank account
+  - [ ] Create LeetCode account
+  - [ ] Create Codewars account
 - [ ] **Afternoon (2 hours)**
   - [ ] Watch: "Python for Beginners" (first 30 mins) - freeCodeCamp
   - [ ] Install Python/your chosen language
-  - [✅] Set up code editor (VS Code recommended)
+  - [ ] Set up code editor (VS Code recommended)
   - [ ] Write your first "Hello World" program
-  - [✅] Push code to GitHub (practice Git basics)
+  - [ ] Push code to GitHub (practice Git basics)
 - [ ] **Evening (1 hour)**
-  - [✅] Download ELSA Speak app
-  - [✅] Complete 15 mins English pronunciation practice
+  - [ ] Download ELSA Speak app
+  - [ ] Complete 15 mins English pronunciation practice
   - [ ] Read: "How to prepare for CCAT" article
-  - [✅] Create study schedule spreadsheet
-  - [✅] Set up Notion or note-taking system
+  - [ ] Create study schedule spreadsheet
+  - [ ] Set up Notion or note-taking system
 
 **Total Time: 4 hours**
 
